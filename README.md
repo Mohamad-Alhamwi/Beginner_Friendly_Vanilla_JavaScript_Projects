@@ -1,0 +1,1 @@
+# Beginner_Friendly_Vanilla_JavaScript_Project
